@@ -4,7 +4,7 @@
 	},
 	"dependencies": {
 		"esbuild": "^0.23.0",
-		"rolldown": "nightly"
+		"rolldown": "0.12.2-snapshot-a2bb2ca-20240811003152"
 	},
 	"packageManager": "pnpm@9.6.0"
 }
