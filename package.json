@@ -3,7 +3,7 @@
 		"build": "rolldown -c rolldown.config.mjs"
 	},
 	"dependencies": {
-		"@vue/consolidate": "^1.0.0",
+		"esbuild": "^0.23.0",
 		"rolldown": "nightly"
 	},
 	"packageManager": "pnpm@9.6.0"
