@@ -1,4 +1,3 @@
-## `treeshake.moduleSideEffects: false` bugs
+# Template for Rolldown reproductions
 
-1. Check `dist/main-correct.js` line 596: `exports.pug = ...`
-2. Check `dist/main.js` - no `exports.pug =` is found, many such exports are incorrectly removed
+Check out branches for past reproductions.
