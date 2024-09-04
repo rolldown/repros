@@ -3,7 +3,7 @@
     "build": "rolldown -c rolldown.config.mjs"
   },
   "dependencies": {
-    "rolldown": "canary"
+    "rolldown": "nightly"
   },
-  "packageManager": "pnpm@9.7.0"
+  "packageManager": "pnpm@9.8.0"
 }

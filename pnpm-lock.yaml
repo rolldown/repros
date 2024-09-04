@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@vue/consolidate':
-        specifier: ^1.0.0
-        version: 1.0.0
       rolldown:
         specifier: nightly
         version: 0.12.2-snapshot-29d29ba-20240809002935
@@ -92,10 +89,6 @@ packages:
   '@tybys/wasm-util@0.9.0':
     resolution: {integrity: sha512-6+7nlbMVX/PVDCwaIQ8nTOPveOcFLSt8GcXdx8hD0bt39uWxYT88uXzqTd4fTvqta7oeUJqudepapKNt2DYJFw==}
 
-  '@vue/consolidate@1.0.0':
-    resolution: {integrity: sha512-oTyUE+QHIzLw2PpV14GD/c7EohDyP64xCniWTcqcEmTd699eFqTIwOmtDYjcO1j3QgdXoJEoWv1/cCdLrRoOfg==}
-    engines: {node: '>= 0.12.0'}
-
   rolldown@0.12.2-snapshot-29d29ba-20240809002935:
     resolution: {integrity: sha512-AVIA8CYH24D/g7f+29USZCf9CkSbxmTOvZg1666gxb1/W1VQm2+N534ZTWDdai6DgmQpmt7oIbzk7E9Hvi0shQ==}
     hasBin: true
@@ -173,8 +166,6 @@ snapshots:
     dependencies:
       tslib: 2.6.3
     optional: true
-
-  '@vue/consolidate@1.0.0': {}
 
   rolldown@0.12.2-snapshot-29d29ba-20240809002935:
     dependencies:
