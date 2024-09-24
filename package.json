@@ -3,7 +3,7 @@
     "build": "rolldown -c rolldown.config.mjs"
   },
   "dependencies": {
-    "rolldown": "nightly"
+    "rolldown": "0.13.2-snapshot-351d2c7-20240924003425"
   },
-  "packageManager": "pnpm@9.8.0"
+  "packageManager": "pnpm@9.11.0"
 }
